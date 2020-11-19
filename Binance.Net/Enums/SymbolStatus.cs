@@ -36,6 +36,10 @@
         /// <summary>
         /// 
         /// </summary>
-        Close
+        Close,
+        /// <summary>
+        /// 
+        /// </summary>
+        Pending_Trading        
     }
 }
